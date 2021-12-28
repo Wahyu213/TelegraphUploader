@@ -28,7 +28,7 @@ Now send /start to you bot to see if it is running!
 ## SUPPORT AND UPDATES
 
 For any type of help on deploy. Contact us on [Support](https://t.me/OkaeriUserbot).
-                                              [Update](https://t.menbzoning).
+                                              [Update](https://t.me/nbzoning).
 
 # Thanks To
 Thanks To [AlbertEinsteinTg](https://github.com/AlbertEinsteinTg) For Helping Me in Some Cases
