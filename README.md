@@ -6,8 +6,9 @@ A Telegram Bot Written In Python
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wahyu213/TelegraphUploader/)
 
 # Local Machine
-Clone the repository
 
+Clone the repository
+```
 Install requirements: pip3 install -r requirements.txt
 
 edit the sample_config.py wih your configs
@@ -15,7 +16,7 @@ edit the sample_config.py wih your configs
 python3 bot.py
 
 Now send /start to you bot to see if it is running!
-
+```
 
 # Varibels
 
@@ -24,6 +25,7 @@ Now send /start to you bot to see if it is running!
 ``START_MESSAGE : YOUR TELEGRAM APP ID.``
 
 ``BOT_USER_NAME : YOUR TELEGRAM API HASH``
+
 
 ## SUPPORT AND UPDATES
 
